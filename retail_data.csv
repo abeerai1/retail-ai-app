@@ -1,0 +1,24 @@
+date,hour,product name,category,quantity sold,total revenue,weather,temprature,demand_level
+25-04-2025,11,lemonade,beverage,12,12.0,sunny,35,Low
+25-04-2025,12,lemonade,beverage,14,14.0,sunny,35,Low
+25-04-2025,13,iced coffee,beverage,25,37.5,sunny,35,High
+25-04-2025,14,granola bar,snack,10,7.5,sunny,35,Low
+25-04-2025,15,iced coffee,beverage,18,27.0,sunny,35,Low
+25-04-2025,16,chicken wrap,fast food,9,27.0,sunny,35,Low
+25-04-2025,17,chicken wrap,fast food,5,15.0,sunny,35,Low
+25-04-2025,18,water bottle,beverage,10,5.0,sunny,35,Low
+25-04-2025,19,keychain,accessory,2,2.0,sunny,35,Low
+25-04-2025,20,iced coffee,beverage,20,30.0,sunny,35,High
+,,,,,,,,
+date,hour,product name,category,quantity sold,total revenue,weather,temprature,demand_level
+26-04-2025,10,hot chocolate,beverage,6,9.0,cloudy,21,Low
+26-04-2025,11,chicken stew,hot meal,10,25.0,cloudy,21,Low
+26-04-2025,12,grilled cheese,hot meal,8,16.0,cloudy,21,Low
+26-04-2025,13,hot chocolate,beverage,7,10.5,cloudy,21,low
+26-04-2025,14,chicken stew,hot meal,8,20.0,cloudy,21,Low
+26-04-2025,15,grilled cheese,hot meal,6,12.0,cloudy,21,Low
+26-04-2025,16,grilled cheese,hot meal,5,10.0,cloudy,21,Low
+26-04-2025,17,chicken wrap,fast food,5,15.0,cloudy,21,Low
+26-04-2025,18,chicken stew,hot meal,7,17.5,cloudy,21,Low
+26-04-2025,19,granola bar,snack,4,3.0,cloudy,21,Low
+26-04-2025,20,water bottle,beverage,6,3.0,cloudy,21,Low
